@@ -11,13 +11,7 @@ const turfs = [
     image: "https://source.unsplash.com/600x400/?football,turf",
     available: true,
   },
-  {
-    id: 2,
-    name: "City Sports Hub",
-    location: "Chennai",
-    image: "https://source.unsplash.com/600x400/?soccer,stadium",
-    available: false,
-  },
+
   {
     id: 3,
     name: "Skyline Turf",
