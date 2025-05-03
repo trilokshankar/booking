@@ -61,7 +61,7 @@ export default function TurfBookingPage() {
                 disabled={!turf.available}
                 onClick={() => handleBookClick(turf)}
               >
-                Book Now
+                Book Fast
               </Button>
             </CardContent>
           </Card>
